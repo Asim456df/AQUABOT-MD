@@ -1,7 +1,7 @@
 {
-  "name": "Aquabot-MD",
+  "name": "Ba Roz Gar",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
+  "description": "=Ba Roz Gar happy for whatsapp.",
   "main": "/aquabot/bot.js",
   "type": "commonjs",
   "scripts": {
@@ -14,8 +14,8 @@
   "engines" : { 
     "node" : ">=14.19.3"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "Ba Roz Gar official",
+  "developer": "Ba Roz Gar",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
